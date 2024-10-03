@@ -23,6 +23,7 @@ public class FirstScript {
 		WebDriver driver = BaseClass.browserSetUp("firefox");
 		driver.get("https://www.google.com/");
 		
+		driver.get("https://www.google.com/");
 
 	}
 
